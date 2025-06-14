@@ -8,6 +8,7 @@ struct ButtonInfo {
   uint8_t pin;
   bool state;
   char name;
+  
 };
 
 struct ButtonMessage {
